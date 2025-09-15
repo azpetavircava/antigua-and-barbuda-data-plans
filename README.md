@@ -1,2 +1,3 @@
 # antigua-and-barbuda-data-plans
-Antigua and Barbuda Data-only plans guides
+
+全球通信 README（占位）
