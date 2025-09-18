@@ -61,3 +61,10 @@ layout: default
 
 　　总之，在2025年去安提瓜和巴布达，上网不再是个难题。无论是选择一张本地SIM卡深入体验，还是用eSIM追求极致便捷，你都能找到适合自己的方式。最重要的还是放下手机，好好享受那儿的阳光和海风啊！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Antigua And Barbuda SIM 卡购买与激活指南](https://faciylike.github.io/antigua-and-barbuda-sim-guides)
